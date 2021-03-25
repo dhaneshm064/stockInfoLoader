@@ -1,6 +1,6 @@
 # stockInfoLoader
 
-Developed several APIs to fetch and load historical Stock details into the databse.
+Developed several APIs to fetch and load historical Stock details into the database.
 The functionality of this repo is just for fetching data from the NSE website.
 The current repo loads only data of the NSE Nifty 100 Stocks you can edit the Document and add more if you wish to retrieve data of more stocks into the csv file TechnicalAnalysis\resources\nse100list.csv.
 
